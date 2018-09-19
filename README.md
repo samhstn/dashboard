@@ -1,5 +1,7 @@
 # dashboard
 
+[![Build Status](https://travis-ci.org/samhstn/dashboard.svg?branch=master)](https://travis-ci.org/samhstn/dashboard)
+
 See working app here: https://vue-dashboard.herokuapp.com
 
 > A Vue.js project

@@ -1,6 +1,7 @@
 # dashboard
 
 [![Build Status](https://travis-ci.org/samhstn/dashboard.svg?branch=master)](https://travis-ci.org/samhstn/dashboard)
+[![codecov](https://codecov.io/gh/samhstn/dashboard/branch/master/graph/badge.svg)](https://codecov.io/gh/samhstn/dashboard)
 
 See working app here: https://vue-dashboard.herokuapp.com
 

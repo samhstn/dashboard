@@ -6,7 +6,7 @@
     <ul>
       <li>
         <a
-          href="/#/dashboard"
+          href="/dashboard"
         >
           Dashboard
         </a>

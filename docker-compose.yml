@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  dashboard:
+    build:
+      context: .
+    environment:
+      - PORT=443
+      - NODE_ENV=prod
+    ports:
+      - "443:443"

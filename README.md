@@ -34,3 +34,39 @@ npm test
 # start http server
 npm run start
 ```
+
+## Development Setup
+
+In separate terminal windows run:
+
+```bash
+npm run dev
+```
+
+```bash
+npm run unit:dev
+```
+
+```bash
+npm run cypress
+# click on the test file you would like to run
+```
+
+All these should run instantly on save of files
+
+It will run:
++ eslint checks on all your files
++ e2e tests
++ unit tests on components with a coverage report
+
+## Docker
+
+Ensure you have `Docker` and `docker-compose` installed
+
+You can run the docker container with:
+
+```bash
+docker-compose up --build
+```
+
+The local server should be running on: `https://0.0.0.0`
